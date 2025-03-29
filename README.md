@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Statistics
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianLeonDiaz&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 
