@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ## Statistics
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianLeonDiaz&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLeonDiaz&layout=compact&theme=radical)
+![Contribuciones Anuales](https://github-readme-streak-stats.herokuapp.com/?user=AdrianLeonDiaz&theme=radical)
+
+
+
+
 
 
 
