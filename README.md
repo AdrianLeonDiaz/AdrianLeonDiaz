@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Mis estadísticas de GitHub 📊
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&hide=prs&theme=radical)
+## Statistics
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 
 
 
