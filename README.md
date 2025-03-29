@@ -1,7 +1,7 @@
 # ¡Hola! Soy Adrián León Díaz 👋
 
 
-** Código = poesía **
+**Código = poesía**
 
 ---
 
