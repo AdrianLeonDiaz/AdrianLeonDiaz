@@ -60,19 +60,9 @@
 
 ---
 
-## 📝 Artículos y Publicaciones
+# 📝 Artículos y Publicaciones
 
-- [Título del Artículo 1](https://medium.com/@adrianleon/articulo1): *Resumen breve del artículo.*
-- [Título del Artículo 2](https://medium.com/@adrianleon/articulo2): *Resumen breve del artículo.*
+#- [Título del Artículo 1](https://medium.com/@adrianleon/articulo1): *Resumen breve del artículo.*
+#- [Título del Artículo 2](https://medium.com/@adrianleon/articulo2): *Resumen breve del artículo.*
 
----
 
-## 🎯 Objetivos Profesionales
-
-- Expandir mis conocimientos en inteligencia artificial y aprendizaje automático.&#8203;:contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-
----
-
-¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme si estás interesado en trabajar juntos o simplemente para intercambiar ideas.
