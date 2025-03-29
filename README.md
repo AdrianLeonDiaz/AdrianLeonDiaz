@@ -1,9 +1,8 @@
-# ¡Hola! Soy Adrián León Díaz 👋
+  # ¡Hola! Soy Adrián León Díaz 
 
 
-**Código = poesía**
+  **Código = poesía**
 
----
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -12,7 +11,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 
 
----
+
 
 ## 📈 Estadísticas de GitHub
 
@@ -20,14 +19,5 @@
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLeonDiaz&layout=compact&theme=radical)
 ![Contribuciones Anuales](https://github-readme-streak-stats.herokuapp.com/?user=AdrianLeonDiaz&theme=radical)
 
----
-
-## 🌐 Conéctemos
-
-- **LinkedIn**: [Adrián León Díaz](https://www.linkedin.com/in/adrianleondiaz)
-- **Correo Electrónico**: xcoonn@gmail.com
-- **Sitio Web**: [www.adrianleondiaz.dev](https://www.adrianleondiaz.dev)
-
----
 
 
